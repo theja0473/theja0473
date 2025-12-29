@@ -2,7 +2,7 @@
 
 ### Product Owner | Solution Architect | DevSecOps Specialist
 Building the future of **Software Defined Vehicles (SDV)** with over 12+ years of experience in the Automotive and IT sectors. 
-Currently driving innovation at **Bosch Global Software Technologies** under SDS- **Software Defined Vehicle**, for Battery Energy Storage Systems **(BESS Technology)**
+Currently driving innovation at **Bosch Global Software Technologies** under SDS - SOFTWARE DIGITAL SOLUTION - **Software Defined Vehicle**, for Battery Energy Storage Systems **(BESS Technology)**
 
 ---
 
