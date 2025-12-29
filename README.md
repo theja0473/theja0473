@@ -22,8 +22,8 @@ Currently driving innovation at **Bosch Global Software Technologies** under SDS
 - **Frameworks/Processes:** Agile (SAFe), Nexus, Infrastructure as Code (IaC)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theja0473&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theja0473&layout=compact&theme=radical)
+[![Thejes's GitHub stats](https://github-readme-stats.vercel.app/api?username=theja0473)](https://github.com/theja0473/github-readme-stats)
+
 
 ### 📫 Connect With Me
 - 🌐 [Portfolio / about.me](https://about.me/thejeswarareddy)
